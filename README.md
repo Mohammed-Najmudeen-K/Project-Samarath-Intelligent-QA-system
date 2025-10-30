@@ -1,2 +1,14 @@
-# Project-Samarath-Intelligent-QA-system
-An AI-powered Q&amp;A system that intelligently answers agricultural and climate-related questions using real government data. Built with Python and Streamlit, it allows users to ask natural questions like comparing rainfall between states or analyzing crop yields, providing data-backed answers with source citations.
+# 🌦️ Project Samarth — Intelligent Q&A System
+
+An AI-based Q&A system that answers agricultural and rainfall-related queries.
+
+### 🚀 Features
+- Compare rainfall between states
+- Find top crops in a region
+- Correlate rainfall and yield for specific years
+
+### 🧠 Tech Stack
+Python, Streamlit, Pandas, CSV dataset
+
+### 🎥 Demo Video
+Watch the Loom demo here: [Loom Video Link](https://www.loom.com/share/your-video-id)
